@@ -6,7 +6,7 @@
 
 **lib_ga.R** - To extract features from genetic algoritm. 
 
-*ADT.R** - To perform alternating decision tree analysis.
+**ADT.R** - To perform alternating decision tree analysis.
 
 **ml_svm.R** - To implement Support Vector Machine.
 
