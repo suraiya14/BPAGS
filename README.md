@@ -4,6 +4,7 @@ If you find our web application (https://shiny.tricities.wsu.edu/bacteriocin-pre
 
 • Akhter, S. and Miller, J.H., BPAGS: A web application for bacteriocin prediction via feature evaluation using alternating decision tree, genetic algorithm, and linear support vector classifier. Frontiers in Bioinformatics, 3, p.1284705.
 
+Description:
 
 **feature_extract.R** - To extract features from protein sequences. 
 
