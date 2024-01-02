@@ -1,3 +1,10 @@
+# BPAGS: A web Application for Bacteriocin Prediction
+
+If you find our web application (https://shiny.tricities.wsu.edu/bacteriocin-prediction/) useful, please cite the following paper:
+
+• Akhter, S. and Miller, J.H., BPAGS: A web application for bacteriocin prediction via feature evaluation using alternating decision tree, genetic algorithm, and linear support vector classifier. Frontiers in Bioinformatics, 3, p.1284705.
+
+
 **feature_extract.R** - To extract features from protein sequences. 
 
 **pearson's_corr.R** - To perform Pearson correlation analysis.
